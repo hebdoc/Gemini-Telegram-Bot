@@ -3,7 +3,7 @@ conf = {
     "before_generate_info": "🤖Generating🤖",
     "download_pic_notify":  "🤖Loading picture🤖",
     "model_1":              "gemini-2.0-flash",
-    "model_2":              "gemini-1.5-pro-latest",
+    "model_2":              "gemini-2.0-pro-exp-02-05",
     "n": 30  #Number of historical records to keep
 }
 
