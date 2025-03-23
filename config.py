@@ -4,7 +4,7 @@ conf = {
     "before_generate_info": "🤖Generating🤖",
     "download_pic_notify":  "🤖Loading picture🤖",
     "model_1":              "gemini-2.0-flash-exp",
-    "model_2":              "gemini-1.5-pro-latest",
+    "model_2":              "gemini-2.0-pro-exp-02-05",
     "streaming_update_interval": 0.5,  # Streaming answer update interval (seconds)
 }
 
